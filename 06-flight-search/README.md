@@ -16,4 +16,4 @@ In this project, you'll build the Flight Search app in which users enter an airp
 - [x] Save the search text with Preferences DataStore. When the user reopens the app, the search text, if any, needs to prepopulate the text field with appropriate results from the database.
 
 prepopulated database: https://github.com/google-developer-training/android-basics-kotlin-sql-basics-app/tree/project
-codelab: https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search
+Access [Project: Create a Flight Search app](https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search) codelab to see the full description of the application requirements

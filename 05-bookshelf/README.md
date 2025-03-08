@@ -17,4 +17,4 @@ The app is expected to do the following:
 - [x] Write tests for code that requires the network service, using dependency
   injection.
 
-link: https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf
+Access [Project: Create a Bookshelf App](https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf) codelab to see the full description of the application requirements
